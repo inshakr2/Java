@@ -31,7 +31,12 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Casting">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IoTInput">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="opentutorials" />
@@ -39,15 +44,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator" />
+    <configuration name="IoT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IoT" />
       <module name="opentutorials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringApp" />
+    <configuration name="IoTInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IoTInput" />
       <module name="opentutorials" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IoTInput" />
+        <item itemvalue="Application.IoT" />
         <item itemvalue="Application.Casting" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.StringOperation" />
-        <item itemvalue="Application.StringApp" />
-        <item itemvalue="Application.Operator" />
       </list>
     </recent_temporary>
   </component>
@@ -104,38 +109,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="103" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063326280" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597233376001">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597485202930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597233376001" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597233376000">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597485202930" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597485202929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597233376000" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597233376000">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597485202929" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597485202929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597233376000" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597233376001">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597485202929" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597485202930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597233376001" />
-    <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1597063548778">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597485202930" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063548778" />
-    <state width="1342" height="242" key="GridCell.Tab.1.center" timestamp="1597063548778">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484671455" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063548778" />
-    <state width="1342" height="242" key="GridCell.Tab.1.left" timestamp="1597063548777">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484671455" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063548777" />
-    <state width="1342" height="242" key="GridCell.Tab.1.right" timestamp="1597063548778">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484671455" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="242" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063548778" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484671455" />
     <state x="309" y="0" key="SettingsEditor" timestamp="1597063947676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -144,6 +149,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="519" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597228818927" />
+    <state x="333" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597484110173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="333" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484110173" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/opentutorials$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1597063556860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
