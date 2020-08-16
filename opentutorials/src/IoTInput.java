@@ -4,10 +4,10 @@ import javax.swing.*;
 public class IoTInput {
     public static void main(String[] args) {
 
-        //String My_ID = JOptionPane.showInputDialog("Input Your Addr :");
-        //String bright = JOptionPane.showInputDialog("Set Your Lamp Bright :");
-        String My_ID = args[0];
-        String bright = args[1];
+        String My_ID = JOptionPane.showInputDialog("Input Your Addr :");
+        String bright = JOptionPane.showInputDialog("Set Your Lamp Bright :");
+        //String My_ID = args[0];
+        //String bright = args[1];
 
         // Elevator call
         Elevator myElevator = new Elevator(My_ID);
