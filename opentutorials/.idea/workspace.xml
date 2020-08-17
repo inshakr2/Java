@@ -39,10 +39,27 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git\Java\opentutorials\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.IoTInput">
+  <component name="RunManager" selected="Application.InstanceApp">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
+      <module name="opentutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassApp" />
+      <module name="opentutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstanceApp" />
       <module name="opentutorials" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringOperation" />
-      <module name="opentutorials" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variable" />
       <module name="opentutorials" />
@@ -89,15 +99,17 @@
       <item itemvalue="Application.IoTInput - with args" />
       <item itemvalue="Application.Casting" />
       <item itemvalue="Application.IoT" />
-      <item itemvalue="Application.StringOperation" />
       <item itemvalue="Application.Variable" />
+      <item itemvalue="Application.ClassApp" />
+      <item itemvalue="Application.InstanceApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstanceApp" />
+        <item itemvalue="Application.ClassApp" />
         <item itemvalue="Application.IoT" />
         <item itemvalue="Application.Casting" />
         <item itemvalue="Application.Variable" />
-        <item itemvalue="Application.StringOperation" />
       </list>
     </recent_temporary>
   </component>
@@ -140,22 +152,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="103" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063326280" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597486412678">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597642152419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597486412678" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597486412678">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597642152419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597486412678" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597486412678">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597642152419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597486412678" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597486412678">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597642152419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597486412678" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
