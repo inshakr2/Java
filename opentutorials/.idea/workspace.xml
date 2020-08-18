@@ -43,7 +43,14 @@
       <recent name="E:\Git\Java\opentutorials\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstanceApp">
+  <component name="RunManager" selected="Application.AccountingApp">
+    <configuration name="AccountingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccountingApp" />
+      <module name="opentutorials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="opentutorials" />
@@ -87,29 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
-      <module name="opentutorials" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.IoTInput" />
       <item itemvalue="Application.IoTInput - with args" />
       <item itemvalue="Application.Casting" />
       <item itemvalue="Application.IoT" />
-      <item itemvalue="Application.Variable" />
       <item itemvalue="Application.ClassApp" />
       <item itemvalue="Application.InstanceApp" />
+      <item itemvalue="Application.AccountingApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountingApp" />
         <item itemvalue="Application.InstanceApp" />
         <item itemvalue="Application.ClassApp" />
         <item itemvalue="Application.IoT" />
         <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +152,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="494" y="103" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597063326280" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597642152419">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1597750390329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597642152419">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597750390329" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1597750390329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597642152419">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597750390329" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1597750390328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597642152419">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597750390328" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1597750390329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597642152419" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597750390329" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1597484671455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -200,6 +200,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="333" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597484110173" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1597749366919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1597749366919" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/opentutorials$IoTInput.ic" NAME="IoTInput Coverage Results" MODIFIED="1597485659329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
