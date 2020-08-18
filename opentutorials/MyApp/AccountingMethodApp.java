@@ -1,8 +1,8 @@
 public class AccountingMethodApp {
     public static double ValueOfSupply;
-    private static double vatRate;
-    private static double expenseRate;
-    private static  double[] Dividend;
+    public static double vatRate;
+    public static double expenseRate;
+    public static  double[] Dividend;
 
     public static void main(String[] args) {
 
@@ -15,16 +15,20 @@ public class AccountingMethodApp {
         double Total = getTotal();
         double Expense = getExpense();
         double Income = getIncome();
+        Print();
+    }
 
+    private static void Print() {
         System.out.println("Value of supply : " + ValueOfSupply);
-        System.out.println("VAT : " + Vat);
-        System.out.println("Total : " + Total);
-        System.out.println("Expense : " + Expense);
-        System.out.println("Income : " + Income);
+        System.out.println("VAT : " + getVat());
+        System.out.println("Total : " + getTotal());
+        System.out.println("Expense : " + getExpense());
+        System.out.println("Income : " + getIncome());
         for(int i = 0; i < Dividend.length; i++){
             System.out.println("Dividend "+ (i+1) + " : " + getDividend(Dividend[i]));
         }
     }
+
     private static double getDividend(double DividentRate){
         return getIncome() * DividentRate;
     }
