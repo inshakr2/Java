@@ -37,8 +37,6 @@ class Accounting{
 }
 
 public class AccountingClassApp {
-
-
     public static void main(String[] args) {
 
         Accounting.ValueOfSupply = 10000.0;
@@ -47,7 +45,4 @@ public class AccountingClassApp {
         Accounting.Dividend = new double[] {0.5, 0.3, 0.2};
         Accounting.print();
     }
-
-
-
 }
