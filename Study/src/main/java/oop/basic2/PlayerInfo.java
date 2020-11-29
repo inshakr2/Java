@@ -6,6 +6,12 @@ public class PlayerInfo {
     int gold;
     int silver;
     int bronze;
+    int total;
+
+    int getTotal() {
+        return this.gold + this.silver + this.bronze;
+    }
+
 
     // Method를 만들자
     void print() {
@@ -18,6 +24,7 @@ public class PlayerInfo {
         System.out.println("금메달 : "+this.gold);
         System.out.println("은메달 : "+this.silver);
         System.out.println("동메달 : "+this.bronze);
+        System.out.println("총 메달 수 : "+this.total);
     }
 
     // Initialize Method 생성
@@ -27,6 +34,7 @@ public class PlayerInfo {
         this.gold = gold;
         this.silver = silver;
         this.bronze =  bronze;
+        this.total = getTotal();
 
     }
 }
