@@ -2,12 +2,13 @@ package main.java.oop.basic3;
 
 public class Player {
 
-    String name;
-    String position;
-    String team;
-    int goal;
-    int assist;
-    int time;
+
+    private String name;
+    private String position;
+    private String team;
+    private int goal;
+    private int assist;
+    private int time;
 
     void setInfo(String name, String position, String team, int goal, int assist, int time){
         this.setName(name);
@@ -67,5 +68,33 @@ public class Player {
         if(time >= 0 && time <= 130) {
             this.time = time;
         }
+    }
+/*  Getter
+    맴버변수 선언, setter 사용 강제화하기 위해 Private 처리 (조건을 걸기 위해서)
+        : 접근제한. 현재 객체의 맴버변수에 접근하기 위해 Getter 추가
+        : 은닉화 구조 (setter + getter)
+*/
+    public String getName() {
+        return name;
+    }
+
+    public String getPosition() {
+        return position;
+    }
+
+    public String getTeam() {
+        return team;
+    }
+
+    public int getGoal() {
+        return goal;
+    }
+
+    public int getAssist() {
+        return assist;
+    }
+
+    public int getTime() {
+        return time;
     }
 }
