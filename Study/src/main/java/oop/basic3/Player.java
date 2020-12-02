@@ -2,8 +2,6 @@ package main.java.oop.basic3;
 
 public class Player {
 
-
-
     String name;
     String position;
     String team;

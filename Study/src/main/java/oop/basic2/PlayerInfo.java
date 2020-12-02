@@ -1,4 +1,4 @@
-package oop.basic2;
+package main.java.oop.basic2;
 
 public class PlayerInfo {
     String name;

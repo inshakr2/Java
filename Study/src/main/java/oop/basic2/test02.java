@@ -1,9 +1,9 @@
-package oop.basic2;
+package main.java.oop.basic2;
 
 public class test02 {
     public static void main(String[] args) {
 
-        PlayerInfo p1 = new oop.basic2.PlayerInfo();
+        PlayerInfo p1 = new PlayerInfo();
         PlayerInfo p2 = new PlayerInfo();
 
         p1.name = "손흥민";

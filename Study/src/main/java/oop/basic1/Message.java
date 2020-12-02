@@ -1,4 +1,4 @@
-package oop.basic1;
+package main.java.oop.basic1;
 
 /*
 *   메세지가 뭔지 알려주기 위한 구문
