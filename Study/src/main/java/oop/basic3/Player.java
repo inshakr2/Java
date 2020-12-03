@@ -10,6 +10,9 @@ public class Player {
     private int assist;
     private int time;
 
+
+    // setter도 좋은 method이지만,,
+    // 코드가 너무 길다. 아예 객체를 생성하면서 값을 입력해버리자. -- 생성자 ( Constructor )
     void setInfo(String name, String position, String team, int goal, int assist, int time){
         this.setName(name);
         this.setPosition(position);

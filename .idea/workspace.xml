@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce7a284-08ce-4d9a-a7f3-b3c47ae29297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/constructor1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/constructor1/test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Study/src/main/java/oop/basic3/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/main/java/oop/basic3/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study/src/main/java/oop/basic3/test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/main/java/oop/basic3/test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/java/oop/basic3/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/java/oop/basic3/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/java/oop/basic3/test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/java/oop/basic3/test03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/oop/basic1/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/oop/basic1/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/oop/basic2/PlayerInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/oop/basic2/test02.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,54 +133,67 @@
       <option name="project" value="LOCAL" />
       <updated>1606918628184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Getter Method">
+      <created>1606920078800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606920078800</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setter Method" />
     <MESSAGE value="Change Src Root" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Src Root" />
+    <MESSAGE value="Add Getter Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Getter Method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1559" y="71" width="814" height="729" key="#Intentions" timestamp="1606831688233">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1559" y="71" width="814" height="729" key="#Intentions/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606831688233" />
-    <state x="-1346" y="0" width="388" height="832" key="#com.intellij.ide.util.MemberChooser" timestamp="1606919046417">
-      <screen x="-1920" y="0" width="1536" height="832" />
+    <state x="538" y="0" width="388" height="832" key="#com.intellij.ide.util.MemberChooser" timestamp="1607006698445">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="-1346" y="0" width="388" height="832" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606919046417" />
-    <state x="-1536" y="0" key="CommitChangelistDialog2" timestamp="1606918626992">
+    <state x="538" y="0" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607006698445" />
+    <state x="-1536" y="0" key="CommitChangelistDialog2" timestamp="1606920077892">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state x="-1536" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606918626992" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606832989252">
+    <state x="-1536" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920077892" />
+    <state width="1477" height="209" key="GridCell.Tab.0.bottom" timestamp="1606920788058">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832989252" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606832989250">
+    <state width="1477" height="209" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
+    <state width="1477" height="209" key="GridCell.Tab.0.center" timestamp="1606920788058">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832989250" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606832989248">
+    <state width="1477" height="209" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
+    <state width="1477" height="209" key="GridCell.Tab.0.left" timestamp="1606920788058">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832989248" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606832989252">
+    <state width="1477" height="209" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
+    <state width="1477" height="209" key="GridCell.Tab.0.right" timestamp="1606920788058">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832989252" />
+    <state width="1477" height="209" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
     <state x="-1643" y="0" key="SettingsEditor" timestamp="1606832671401">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1643" y="0" key="SettingsEditor/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832671401" />
-    <state x="-1559" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606918632387">
+    <state x="-1559" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606920086618">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state x="-1559" y="145" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606918632387" />
+    <state x="-1559" y="145" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920086618" />
     <state x="-1357" y="190" key="chooseDestDirectoryDialog" timestamp="1606832856566">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1357" y="190" key="chooseDestDirectoryDialog/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832856566" />
+    <state x="383" y="181" key="search.everywhere.popup" timestamp="1607006925528">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="181" key="search.everywhere.popup/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607006925528" />
   </component>
 </project>
