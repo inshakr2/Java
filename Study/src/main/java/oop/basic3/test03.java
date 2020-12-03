@@ -4,14 +4,15 @@ public class test03 {
 
     public static void main(String[] args) {
 
-        Player p1 = new Player();
-        Player p2 = new Player();
+        // Add Constructor
+        Player p1 = new Player("Son", "FW", "ToT", 3, 1, 90);
+        Player p2 = new Player("Kane", "FW", "ToT", 2, 4, 90);
 
-        p1.setInfo("Son", "FW","ToT", 3, 1, 90);
-        p1.print();
-
-        p2.setInfo("Knae", "FW", "ToT", 2, 4, 90);
-        p2.print();
+//      p1.setInfo("Son", "FW","ToT", 3, 1, 90);
+//      p1.print();
+//
+//      p2.setInfo("Knae", "FW", "ToT", 2, 4, 90);
+//      p2.print();
 
 
         // setter 강제화 후, 특정 맴버변수를 호출하기 위해선 getter를 사용
