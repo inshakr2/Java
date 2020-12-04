@@ -20,11 +20,14 @@ public class Player {
         this.setTime(time);
     }
 
-
-
-
-
-
+    // 오버로딩
+    // 생성자 입력 변수에 따라 다양한 호출에 응답.
+    // 나머지 값들은 int형으로 기본적으로 0
+    public Player(String name, String position, String Team) {
+        this.setName(name);
+        this.setPosition(position);
+        this.setTeam(team);
+    }
 
     public String getName() {
         return name;
