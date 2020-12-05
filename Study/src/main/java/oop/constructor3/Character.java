@@ -22,12 +22,10 @@ public class Character {
     private int money;
 
 
+    // 생성자 사이에 데이터 전달이 일어날 수 있다. (중복 코드 방지)
+    // 아래와 같이 오버로딩을 할 수 있다.
     public Character(String id, String job) {
-        this.setId(id);
-        this.setJob(job);
-        this.setLevel(1);
-        this.setMoney(0);
-
+        this(id, job, 1, 0); // 매개변수 4개를 받는 생성자에 전달하는 구문
     }
 
     public Character(String id, String job, int level, int money) {
@@ -36,6 +34,20 @@ public class Character {
         this.setLevel(level);
         this.setMoney(money);
     }
+//    public Character(String id, String job) {
+//        this.setId(id);
+//        this.setJob(job);
+//        this.setLevel(1);
+//        this.setMoney(0);
+//
+//    }
+//
+//    public Character(String id, String job, int level, int money) {
+//        this.setId(id);
+//        this.setJob(job);
+//        this.setLevel(level);
+//        this.setMoney(money);
+//    }
 
     // setter
     public void setId(String id) {
