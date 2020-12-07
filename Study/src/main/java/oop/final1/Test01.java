@@ -10,6 +10,7 @@ public class Test01 {
         a = 20;
         System.out.println(a);
 
+        // final을 메소드나 클래스에 붙일 수도 있는데 이 부분은 상속 파트에서 ..
         final double pi = 3.14;
 //        pi = 1.5;     불가능
         System.out.println(pi);
