@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce7a284-08ce-4d9a-a7f3-b3c47ae29297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/Constant1/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/inherit1/Galaxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/inherit1/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/src/main/java/oop/inherit1/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
