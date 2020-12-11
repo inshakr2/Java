@@ -8,4 +8,14 @@ public class Phone {
     protected String color;
     protected int price;
 
+    public void call() {
+        System.out.println("전화걸기");
+    }
+    public void sms() {
+        System.out.println("문자보내기");
+    }
+    public void camera() {
+        System.out.println("사진찍기");
+    }
+
 }
