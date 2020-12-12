@@ -2,6 +2,9 @@ package main.java.oop.Inherit3;
 
 public class Iphone extends Phone {
 
+    public Iphone(String number) {
+        super(number);
+    }
 
     // 부모 클래스에 있는 Method를 수정하거나 기능을 바꾸고자 할 때,
     // Override Annotation이 필수는 아니지만, 명시해두는것이 규칙
