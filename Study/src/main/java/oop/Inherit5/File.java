@@ -13,6 +13,4 @@ public class File {
     protected String filename;
     protected long filesize;
 
-
-
 }
