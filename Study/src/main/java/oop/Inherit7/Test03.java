@@ -14,16 +14,20 @@ public class Test03 {
         // Phone p = ZFlip 객체 or GalaxyFold 객체 or Iphone 객체
 
         Phone p;
+        System.out.println(number);
         switch (number) {
             case 1:
                 p = new ZFlip();
+                break;
             case 2:
                 p = new GalaxyFold();
+                break;
             case 3:
                 p = new Iphone();
                 break;
+
             default:
-                p = new Iphone();
+                throw new IllegalStateException("Unexpected value: " + number);
         }
 
         p.call();
