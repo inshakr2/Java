@@ -15,5 +15,10 @@ public class Test02 {
         Object e = new HashMap<String, String>();
         Object f = new Scanner(System.in);
 
+        // - 형태검사
+        //   a 는 String 인가?  false
+        //   b 는 String 인가?  true
+        System.out.println(a instanceof String);
+        System.out.println(b instanceof String);
     }
 }
