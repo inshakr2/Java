@@ -30,7 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce7a284-08ce-4d9a-a7f3-b3c47ae29297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/src/main/api/lang/integer/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study/src/main/api/lang/integer/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/main/api/lang/integer/Test02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     <property name="project.structure.side.proportion" value="0.3091954" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
-  <component name="RunManager" selected="Application.Test01 (1)">
+  <component name="RunManager" selected="Application.Test02 (1)">
     <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.api.lang.object.Test01" />
       <module name="Java" />
@@ -88,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.oop.Inherit7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.api.lang.integer.Test02" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.api.lang.integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,33 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.oop.static1.test01" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.oop.static1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Test01" />
       <item itemvalue="Application.Test02" />
       <item itemvalue="Application.Test03" />
-      <item itemvalue="Application.test01" />
       <item itemvalue="Application.Test01 (1)" />
+      <item itemvalue="Application.Test02 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test02 (1)" />
         <item itemvalue="Application.Test01 (1)" />
         <item itemvalue="Application.Test03" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608213522313</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Integer Class api Tutorial - int vs Integer">
+      <created>1608213956840</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1608213956840</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +486,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rock scissors paper .. Without Constant" />
     <MESSAGE value="Inherit Intro .." />
     <MESSAGE value="Lecture Inherit (extends)" />
     <MESSAGE value="Lecture Inherit - protected" />
@@ -503,7 +510,8 @@
     <MESSAGE value="Omitted.." />
     <MESSAGE value="Integer Class api" />
     <MESSAGE value="Integer Class api Tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integer Class api Tutorial" />
+    <MESSAGE value="Integer Class api Tutorial - int vs Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integer Class api Tutorial - int vs Integer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1559" y="71" width="814" height="729" key="#Intentions" timestamp="1606831688233">
@@ -517,46 +525,46 @@
     <state x="538" y="0" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607006698445" />
     <state x="718" y="0" width="485" height="1040" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608033247796" />
     <state x="574" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607234916040" />
-    <state x="-1430" y="97" key="CommitChangelistDialog2" timestamp="1608213521433">
+    <state x="-1430" y="97" key="CommitChangelistDialog2" timestamp="1608213956144">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state x="-1536" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920077892" />
     <state x="360" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607007344116" />
     <state x="-1540" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1607701625518" />
     <state x="490" y="85" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608040147613" />
-    <state x="-1430" y="97" key="CommitChangelistDialog2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608213521433" />
+    <state x="-1430" y="97" key="CommitChangelistDialog2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608213956144" />
     <state x="380" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607237846858" />
     <state x="97" y="84" key="DiffContextDialog" timestamp="1608039953619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="97" y="84" key="DiffContextDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608039953619" />
-    <state width="1274" height="264" key="GridCell.Tab.0.bottom" timestamp="1608119210932">
+    <state width="1357" height="218" key="GridCell.Tab.0.bottom" timestamp="1608214431793">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state width="1477" height="209" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
     <state width="1711" height="264" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607944166226" />
-    <state width="1274" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608119210932" />
+    <state width="1357" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608214431793" />
     <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607237879727" />
-    <state width="1274" height="264" key="GridCell.Tab.0.center" timestamp="1608119210931">
+    <state width="1357" height="218" key="GridCell.Tab.0.center" timestamp="1608214431792">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state width="1477" height="209" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
     <state width="1711" height="264" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607944166226" />
-    <state width="1274" height="264" key="GridCell.Tab.0.center/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608119210931" />
+    <state width="1357" height="218" key="GridCell.Tab.0.center/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608214431792" />
     <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607237879727" />
-    <state width="1274" height="264" key="GridCell.Tab.0.left" timestamp="1608119210931">
+    <state width="1357" height="218" key="GridCell.Tab.0.left" timestamp="1608214431792">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state width="1477" height="209" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
     <state width="1711" height="264" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607944166226" />
-    <state width="1274" height="264" key="GridCell.Tab.0.left/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608119210931" />
+    <state width="1357" height="218" key="GridCell.Tab.0.left/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608214431792" />
     <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607237879727" />
-    <state width="1274" height="264" key="GridCell.Tab.0.right" timestamp="1608119210932">
+    <state width="1357" height="218" key="GridCell.Tab.0.right" timestamp="1608214431792">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state width="1477" height="209" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920788058" />
     <state width="1711" height="264" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607944166226" />
-    <state width="1274" height="264" key="GridCell.Tab.0.right/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608119210932" />
+    <state width="1357" height="218" key="GridCell.Tab.0.right/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608214431792" />
     <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607237879727" />
     <state x="905" y="246" key="RollbackChangesDialog" timestamp="1608040009367">
       <screen x="0" y="0" width="1920" height="1040" />

@@ -4,6 +4,8 @@ public class Test02 {
     public static void main(String[] args) {
         // Integer 같은 class를 Wrapper Class라고 한다. (Hybrid 자료형)
         // int가 좋은점, Integer가 좋은점이 있다. (둘은 호환가능)
+        // int는 연산자를 사용하여 계산하는데 특화
+        // Integer는 제공되는 메소드를 통해 복잡한 계산에 특화
 
         // 1. int가 유리한 상황
         int a = 10;
@@ -18,5 +20,17 @@ public class Test02 {
         System.out.println(z.toString());
 
 
+        // 2. Integer가 유리한 상황
+        // 30을 2진수로 변환
+
+        int n = 30;
+        String res = "";
+        for(int i = n; i > 0; i /= 2) {
+            res = i % 2 + res;
+        }
+        System.out.println(res);
+
+        Integer k = new Integer(30);
+        System.out.println(Integer.toBinaryString(k));
     }
 }
