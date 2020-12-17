@@ -32,5 +32,26 @@ public class Test02 {
 
         Integer k = new Integer(30);
         System.out.println(Integer.toBinaryString(k));
+
+
+        // 둘은 서로 호환이 가능하다
+
+        Integer v1 = 10; // int가 Integer로 보관 (값이 포장) ---- auto-boxing
+        Integer v2 = new Integer(10); // Integer가 int로 보관 --- auto-boxing
+
+        /**
+         *      Wrapper
+         *  boolean :   Boolean
+         *  byte    :   Byte
+         *  short   :   Short
+         *  char    :   Character
+         *  int     :   Integer
+         *  long    :   Long
+         *  float   :   Float
+         *  double  :   Double
+         *
+         */
+
+
     }
 }
