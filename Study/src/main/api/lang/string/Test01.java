@@ -1,4 +1,4 @@
-package main.api.lang.string.Test;
+package main.api.lang.string;
 
 public class Test01 {
     public static void main(String[] args) {
