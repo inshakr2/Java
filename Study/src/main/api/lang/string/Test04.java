@@ -18,12 +18,5 @@ public class Test04 {
         // 연쇄호출 - Method Chaining
         String addr3 = "            NAVER.COM     ";
         System.out.println(addr3.trim().toLowerCase());
-
-        // 문자열 나누기
-        String addr4 = "유창열";
-        String firstName = addr4.substring(1, 3);
-        String lastName = addr4.substring(0, 1);
-        System.out.println("firstName = " + firstName);
-        System.out.println("lasgName = " + lastName);
     }
 }
