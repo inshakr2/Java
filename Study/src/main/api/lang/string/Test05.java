@@ -15,6 +15,18 @@ public class Test05 {
 
         }
 
+    private static boolean isCorr(String preWord, String nextWord) {
+        boolean result;
+        String pre = preWord.substring(3);
+        String next = nextWord.substring(0);
+
+        if (pre.equals(next)) {
+            result = true;
+        } else {
+            result = false;
+        }
+        return result;
+    }
 
 
     private static boolean isThree(String word) {
