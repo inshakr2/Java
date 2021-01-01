@@ -1,5 +1,6 @@
 package main.api.exception;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Test02 {
@@ -19,13 +20,11 @@ public class Test02 {
         } catch (ArithmeticException e1) {
             // ArithmeticException이 발생하면 정보를 e1이라는 객체로 전달받음
             System.out.println("인원수는 1이상 입력.");
+        } catch (InputMismatchException e2) {
+            System.out.println("정수 형태로 입력.");
         }
 
-
-
-
-
-
-
+        // Q1 : 처리 구문이 너무 길다.
+        // Q2 : 예외가 정말 2개 뿐인가?
     }
 }
