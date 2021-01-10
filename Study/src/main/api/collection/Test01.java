@@ -16,5 +16,22 @@ public class Test01 {
         // 코로나 명부 형식의 저장소
         List b = new ArrayList();
 
+
+        // 데이터 추가 : .add()
+        a.add("태연");
+        a.add("박효신");
+        a.add("박정민");
+        a.add("한지민");
+        a.add("나은");
+
+        b.add("태연");
+        b.add("박효신");
+        b.add("박정민");
+        b.add("한지민");
+        b.add("나은");
+
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        // 동일하게 data를 저장했는데 저장소 차이로 순서가 다르다
     }
 }
