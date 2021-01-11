@@ -29,5 +29,17 @@ public class Test02 {
         List<?> e2 = new LinkedList<>();
 
 
+        // 데이터 추가 : add() - Generic에 명시된 형태만 추가 가능
+        e.add("한국");
+        e.add("미국");
+        e.add("중국");
+        e.add("일본");
+        e.add("러시아");
+        // 배열에서는 idx를 바꿔가면서 넣어주는데 List는 그냥 add
+
+        System.out.println("e = " + e);
+        System.out.println("size = " + e.size());
+        System.out.println("is empty ? " + e.isEmpty());
+
     }
 }
