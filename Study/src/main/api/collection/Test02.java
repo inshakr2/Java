@@ -18,5 +18,9 @@ public class Test02 {
         List d = new LinkedList();
 
 
+        // 배열과 틀린점 - 자료형 저장
+        int[] e = new int[5];
+
+
     }
 }
