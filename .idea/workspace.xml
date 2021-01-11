@@ -29,10 +29,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce7a284-08ce-4d9a-a7f3-b3c47ae29297" name="Default Changelist" comment="etc..">
+    <list default="true" id="4ce7a284-08ce-4d9a-a7f3-b3c47ae29297" name="Default Changelist" comment="Collection api Lecture - differ with record">
       <change beforePath="$PROJECT_DIR$/Study/src/main/api/collection/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study/src/main/api/collection/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/api/util/date/Test01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opentutorials/bin/production/Java/main/api/util/date/Test02.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597058763995</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Inherit - abstract class">
-      <created>1607843983140</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1607843983140</updated>
     </task>
     <task id="LOCAL-00025" summary="Inherit - abstract class">
       <created>1607844526019</created>
@@ -513,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610257572911</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Collection api Lecture - differ with record">
+      <created>1610377285887</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1610377285887</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -551,7 +549,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String Object - Solving problem" />
     <MESSAGE value="Revert &quot;String Object - Edit String 2&quot;" />
     <MESSAGE value="String Object - solving Problem&#10;1. word Lengh inspect" />
     <MESSAGE value="String Object - solving Problem&#10;2. Is Correct Rule" />
@@ -576,7 +573,8 @@
     <MESSAGE value="java.util.Date API Lecture - SimpleDateFormat com" />
     <MESSAGE value="Collection api Lecture - 1" />
     <MESSAGE value="Collection api Lecture - set / List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection api Lecture - set / List" />
+    <MESSAGE value="Collection api Lecture - differ with record" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection api Lecture - differ with record" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1559" y="71" width="814" height="729" key="#Intentions" timestamp="1606831688233">
@@ -590,21 +588,21 @@
     <state x="538" y="0" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607006698445" />
     <state x="718" y="0" width="485" height="1040" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608033247796" />
     <state x="574" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607234916040" />
-    <state x="-1114" y="123" key="CommitChangelistDialog2" timestamp="1610377003422">
+    <state x="-1114" y="123" key="CommitChangelistDialog2" timestamp="1610377458603">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state x="-1536" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920077892" />
     <state x="360" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607007344116" />
     <state x="-1540" y="0" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1607701625518" />
     <state x="490" y="85" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608040147613" />
-    <state x="-1114" y="123" key="CommitChangelistDialog2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610377003422" />
+    <state x="-1114" y="123" key="CommitChangelistDialog2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610377458603" />
     <state x="380" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1607237846858" />
     <state x="-1114" y="123" key="CommitChangelistDialog2/0.0.1920.1040/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608642059501" />
-    <state x="-1823" y="96" key="DiffContextDialog" timestamp="1610376983977">
+    <state x="-1823" y="96" key="DiffContextDialog" timestamp="1610377458107">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state x="97" y="84" key="DiffContextDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608039953619" />
-    <state x="-1823" y="96" key="DiffContextDialog/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610376983977" />
+    <state x="-1823" y="96" key="DiffContextDialog/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610377458107" />
     <state x="-1060" y="288" key="FileChooserDialogImpl" timestamp="1610257272782">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
@@ -666,14 +664,14 @@
     </state>
     <state x="-1643" y="0" key="SettingsEditor/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606832671401" />
     <state x="346" y="0" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1607843048165" />
-    <state x="-1469" y="194" key="Vcs.Push.Dialog.v2" timestamp="1610376992110">
+    <state x="-1469" y="194" key="Vcs.Push.Dialog.v2" timestamp="1610377288793">
       <screen x="-1920" y="12" width="1920" height="1040" />
     </state>
     <state x="-1559" y="145" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1440.860@-1920.0.1536.832" timestamp="1606920086618" />
     <state x="338" y="150" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1440.860@0.0.1440.860" timestamp="1607007373018" />
     <state x="-1559" y="146" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1607701629822" />
     <state x="451" y="182" key="Vcs.Push.Dialog.v2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608040156990" />
-    <state x="-1469" y="194" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610376992110" />
+    <state x="-1469" y="194" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1610377288793" />
     <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607237850626" />
     <state x="-1469" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.12.1920.1040@-1920.12.1920.1040" timestamp="1608642065555" />
     <state x="-1357" y="190" key="chooseDestDirectoryDialog" timestamp="1606832856566">

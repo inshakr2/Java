@@ -11,15 +11,18 @@ public class Test02 {
         //  - LinkedList : 연결 형태로 떨어져 있는 저장소
 
         // ArrayList
-        ArrayList a = new ArrayList();
-        List b = new ArrayList();
+//        ArrayList a = new ArrayList();
+//        List b = new ArrayList();
+//
+//        LinkedList c = new LinkedList();
+//        List d = new LinkedList();
+//
+//
+//        // 배열과 틀린점 - 자료형 저장
+//        int[] e = new int[5];
 
-        LinkedList c = new LinkedList();
-        List d = new LinkedList();
-
-
-        // 배열과 틀린점 - 자료형 저장
-        int[] e = new int[5];
+        // 생성 방식 -> Generic을 사용하여 형태를 명시
+        List<String> e = new ArrayList<String>();
 
 
     }
