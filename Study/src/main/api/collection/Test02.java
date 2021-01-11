@@ -23,6 +23,10 @@ public class Test02 {
 
         // 생성 방식 -> Generic을 사용하여 형태를 명시
         List<String> e = new ArrayList<String>();
+        List<String> e1 = new ArrayList<>();
+
+        // 아무것도 입력하지 않으면, object가 저장됨. 그렇지만 object더라도 명시하기를 권장 ( 물음표(?) 로 대체 가능 )
+        List<?> e2 = new LinkedList<>();
 
 
     }
