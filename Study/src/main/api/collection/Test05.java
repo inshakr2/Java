@@ -15,7 +15,17 @@ public class Test05 {
         // List도 배열처럼 순서가 중요, 순서와 관련된 조작이 필요
         // - Collections
 
+        // 1. 순서 뒤집기
         Collections.reverse(list);
         System.out.println("list = " + list);
+
+        // 2. 뒤섞기
+        Collections.shuffle(list);
+        System.out.println("list = " + list);
+
+        // 3. 정렬
+        Collections.sort(list);
+        System.out.println("list = " + list);
+
     }
 }
