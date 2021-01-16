@@ -20,12 +20,17 @@ public class Test11_1 {
 //        Collections.reverse(list);
 //        System.out.println(list);
 
-        Comparator<String> c = new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                return o2.compareTo(o1);
-            }
+//        Comparator<String> c = new Comparator<String>() {
+//            @Override
+//            public int compare(String o1, String o2) {
+//                return o2.compareTo(o1);
+//            }
+//        };
+
+        Comparator<String> c = (a, b) -> {
+            return b.compareTo(a);
         };
+        Comparator<String> c2 = (a, b) -> b.compareTo(a);
 
         Collections.sort(list, c);
         System.out.println(list);
