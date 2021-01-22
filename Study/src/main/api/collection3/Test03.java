@@ -19,10 +19,20 @@ public class Test03 {
         b.add(40);
         b.add(50);
 
-        // 합집합
+        // 합집합 : addAll
         Set<Integer> c = new TreeSet<>();
         c.addAll(a);
         c.addAll(b);
         System.out.println("c = " + c);
+
+        // 교집합 : retainAll
+        Set<Integer> d = new TreeSet<>(a);
+        d.retainAll(b);
+        System.out.println("d = " + d);
+
+        // 차집합 : removeAll
+        Set<Integer> e = new TreeSet<>(a);
+        e.removeAll(b);
+        System.out.println("e = " + e);
     }
 }
