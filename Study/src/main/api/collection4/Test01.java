@@ -15,8 +15,14 @@ public class Test01 {
 
         // 데이터 추가
         map.put("a", 20);
-
+        // 검색
         System.out.println(map.get("a"));
+
+
+        map.put("b", 10);
+        map.put("b", 30);
+
+        System.out.println(map.get("b"));
 
     }
 }
